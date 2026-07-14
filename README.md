@@ -1,6 +1,6 @@
 # Home Lab
 
-A self-hosted lab environment used to practice penetration testing as well as blue team detection and response. 
+A self-hosted lab environment used to practice penetration testing as well as blue team detection and response. Largely VM based and segmented within its own network.
 
 ## Environment
 
