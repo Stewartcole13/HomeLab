@@ -1,20 +1,19 @@
 # Home Lab
 
-A self-hosted lab environment used to practice detection engineering, incident triage, and blue team workflows against simulated attack techniques — built to develop hands-on SOC Analyst skills beyond day-to-day work experience.
+A self-hosted lab environment used to practice penetration testing as well as blue team detection and response. 
 
 ## Environment
 
 > _Fill in with your actual setup, e.g.:_
-- **Hypervisor:** Proxmox / VMware Workstation / Hyper-V
+- **Hypervisor:** VMware Workstation Pro
 - **Domain Controller:** Windows Server 2022
 - **Endpoints:** 1–2x Windows 10/11 client VMs
 - **Network:** pfSense/OPNsense for segmentation and logging
-- **SIEM:** Microsoft Sentinel workspace, logs forwarded via AMA / Log Analytics agent
-- **EDR:** Microsoft Defender for Endpoint (or SentinelOne, if licensed)
+
 
 ## Goal
 
-Each project below simulates a specific attack technique (mapped to MITRE ATT&CK where applicable), then documents the detection logic, evidence, and analysis — written the way I'd hand off a finding to a team lead.
+Each project below simulates a real world penetration testing technique. These tests help gather an understanding of how to perform, and defend against such techniques.
 
 ## Projects
 
